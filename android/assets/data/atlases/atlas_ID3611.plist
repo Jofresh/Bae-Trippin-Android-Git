@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>PTModelSprite_ID5792</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0, 0}, {547, 1280}}</string>
+                <key>offset</key>
+                <string>{-13, 2}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{461, 107}, {547, 1280}}</string>
+                <key>sourceSize</key>
+                <string>{1495, 1498}</string>
+            </dict>
+            <key>PTModelSprite_ID5778</key>
+            <dict>
+                <key>frame</key>
+                <string>{{551, 0}, {970, 970}}</string>
+                <key>offset</key>
+                <string>{1, 3}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{263, 261}, {970, 970}}</string>
+                <key>sourceSize</key>
+                <string>{1495, 1498}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <string>2</string>
+            <key>realTextureFileName</key>
+            <string>atlas_ID3611.png</string>
+            <key>size</key>
+            <string>{2048, 2048}</string>
+            <key>smartupdate</key>
+            <string>$Potion:Smartupdate:$</string>
+            <key>textureFileName</key>
+            <string>atlas_ID3611.png</string>
+        </dict>
+    </dict>
+</plist>
